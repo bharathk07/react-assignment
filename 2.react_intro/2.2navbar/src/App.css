@@ -1,0 +1,19 @@
+.App {
+  display: flex;
+  margin: auto;
+  justify-content: space-around;
+  background-color: beige;
+}
+h1{
+  margin: 0%;
+}
+button{
+  margin-top: 10px;
+}
+.flex{
+  display: flex;
+}
+p{
+  margin-left: 20px;
+}
+
